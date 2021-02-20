@@ -1,7 +1,7 @@
 # RTv1
 computer graphics
 
-instal SDL2
+instal SDL2:
   brew install SDL2
   
 make
